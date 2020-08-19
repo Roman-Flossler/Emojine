@@ -1,1 +1,1 @@
-emojine.com
+emojine.com - emoji painting made with React.js
